@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - `Object`
+  - `Object`  🖐️ used
   - `Function`
   - `Boolean`
   - `Number`
@@ -12,13 +12,13 @@
   - `NaN`
   - `undefined`
   - `null`
-  - `this`
+  - `this`  🖐️ used
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
+  - `typeof`  🖐️ used
+  - Destructuring 🖐️ used
+  - Generators  🖐️ used
   - Iterators
   - Async generator
   - Async iterator
@@ -29,23 +29,23 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters  🖐️ used
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators  🖐️ used
+  - Logical operators  🖐️ used
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Bitwise operators  🎓 known
+  - Ternary operator 🎓 known
+  - `void`  🖐️ used
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode  🖐️ used
   - Hoisting
-  - `delete`
+  - `delete`  🖐️ used
   - `in`
-  - `super`
+  - `super`  🎓 known
   - `eval`
   - `static`
   - `Number.parseInt`
@@ -59,39 +59,39 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
+  - `if` 🖐️ used
+  - `while` 🖐️ used
   - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `for` 🖐️ used
+  - `for..in`  🖐️ used
+  - `for..of` 🖐️ used
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `throw` 🖐️ used
+  - `break` 🖐️ used
+  - `continue`  🖐️ used
+  - `import`  🖐️ used
+  - `export` 🖐️ used
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `try..catch`  🖐️ used
+  - `switch`  🖐️ used
+  - `class`  🖐️ used
   - `extends`
   - `with`
   - `new`
 - Functions
   - Arrow function
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
+  - Function declaration  🖐️ used
+  - Function expression  🖐️ used
+  - Default parameters  🖐️ used
+  - Functional object  🖐️ used
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return`  🖐️ used
 - Data structures
-  - `Array`
-  - `Map`
+  - `Array` 🖐️ used
+  - `Map`  🖐️ used
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -117,6 +117,6 @@
   - V8
   - Node.js
   - npm
-  - prettier
-  - MDN
+  - prettier  🖐️ used
+  - MDN 🖐️ used
   - TC39
