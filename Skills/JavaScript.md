@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
+  - `Object` 🖐️ used
+  - `Function` 🖐️ used
+  - `Boolean`  🖐️ used
+  - `Number` 🖐️ used
+  - `BigInt` 🖐️ used
+  - `String` 🖐️ used
+  - `Symbol` 🖐️ used
   - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `NaN`  🖐️ used
+  - `undefined`  🖐️ used
+  - `null` 🖐️ used
+  - `this` 🖐️ used
   - `instanceof`
   - `...spread`
   - `...rest`
   - `typeof`
   - Destructuring
-  - Generators
-  - Iterators
+  - Generators 🖐️ used
+  - Iterators 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -29,19 +29,19 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters  🖐️ used
   - `__proto__`
   - `prototype`
   - Equality operators
-  - Logical operators
+  - Logical operators  🎓 known
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Bitwise operators  🎓 known
+  - Ternary operator 🎓 known
+  - `void` 🖐️ used
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode  🖐️ used
   - Hoisting
   - `delete`
   - `in`
@@ -59,39 +59,39 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
+  - `if` 🖐️ used
+  - `while` 🖐️ used
   - `do..while`
-  - `for`
+  - `for` 🖐️ used
   - `for..in`
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
+  - `break` 🖐️ used
   - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `import` 🖐️ used
+  - `export` 🖐️ used
+  - `label` 🖐️ used
+  - `try..catch` 🖐️ used
+  - `switch` 🖐️ used
+  - `class` 🖐️ used
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function 🖐️ used
   - Async function
   - Function declaration
   - Function expression
   - Default parameters
-  - Functional object
+  - Functional object 🖐️ used
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` 🖐️ used
 - Data structures
-  - `Array`
-  - `Map`
+  - `Array`  🖐️ used
+  - `Map`  🖐️ used
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -102,11 +102,11 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - Node.js  👂 heard
+  - npm 
+  - prettier 🖐️ used
+  - MDN 🖐️ used
   - TC39
