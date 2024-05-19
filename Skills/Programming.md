@@ -5,7 +5,7 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm
@@ -32,34 +32,34 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value🖐 used
-  - Identifier 🖐 used
-  - Variable 🖐 used 
-  - Constant🖐 used 
+  - Value🖐: 🖐️ used
+  - Identifier 🖐: 🖐️ used
+  - Variable 🖐: 🖐️ used
+  - Constant🖐: 🖐️ used
   - Scalar
-  - Literal🖐 used 
-  - Expression🖐 used 
-  - Heap🎓 known
-  - Function🖐 used 
+  - Literal🖐: 🖐️ used
+  - Expression🖐: 🖐️ used
+  - Heap: 🎓 known
+  - Function🖐: 🖐️ used
   - Procedure
-  - Method🖐 used 
-  - Class🖐 used
+  - Method🖐: 🖐️ used
+  - Class🖐: 🖐️ used
   - Prototype
   - Event
-  - Type🖐 used
-  - Flag🖐 used
+  - Type🖐: 🖐️ used
+  - Flag🖐: 🖐️ used
   - Lexical scope
   - Code block
-  - Conditions🖐 used 
-  - Loops🖐 used
+  - Conditions🖐: 🖐️ used
+  - Loops🖐: 🖐️ used
   - Assignment
   - Regular expression
-  - Interface 👂 heard 
+  - Interface: 👂 heard
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case 🖐 used
+  - Camel case 🖐: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
@@ -81,9 +81,9 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature 👂 heard 
-  - Argument 🖐 used 
-  - Parameter 🖐 used 
+  - Signature: 👂 heard
+  - Argument 🖐: 🖐️ used
+  - Parameter 🖐: 🖐️ used
   - Pure function
   - Lambda expression
   - Side effects
@@ -91,26 +91,26 @@
   - Partial application
   - Currying
   - Higher order
-  - Recursion 🎓 known
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback 🎓 known
+  - Callback: 🎓 known
   - Listener
   - Composition
   - Pipe
-  - Memoize 👂 heard 
+  - Memoize: 👂 heard
   - Wrapper
   - Functor
   - Monad
   - Monoid
-  - Generator 🎓 known
+  - Generator: 🎓 known
   - Coroutine
 - Data structures
-  - Array 🖐 used
-  - Structure 🖐 used
+  - Array 🖐: 🖐️ used
+  - Structure 🖐: 🖐️ used
   - Record
-  - Enum 🖐 used
+  - Enum 🖐: 🖐️ used
   - Instance
-  - Object 🖐 used
+  - Object 🖐: 🖐️ used
   - Collection
   - Set
   - Hash table
@@ -118,31 +118,31 @@
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue👂 heard 
-  - Stack  🎓 known
-  - Deque 👂 heard 
-  - Tree 👂 heard 
-  - Graph 👂 heard 
+  - Queue: 👂 heard
+  - Stack: 🎓 known
+  - Deque: 👂 heard
+  - Tree: 👂 heard
+  - Graph: 👂 heard
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing 🎓 known
+  - String parsing: 🎓 known
   - JSON
   - JSON5
   - YAML
 - Networking
-  - DNS 
+  - DNS
   - CDN
   - CORS
   - IPv4
-  - IPv6 
+  - IPv6
   - NAT
-  - URL 
+  - URL
   - URN
   - URI
 - Process and tools
-  - Compiler🖐 used 
+  - Compiler🖐: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -153,37 +153,37 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine 🖐 used 
+  - Virtual machine 🖐: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger 🖐 used 
+  - Debugger 🖐: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring 👂 heard
-  - Code review👂 heard
-  - Exception 👂 heard
-  - Unittesting🖐 used 
-  - git👂 heard
-  - Github🎓 known
+  - Refactoring: 👂 heard
+  - Code review: 👂 heard
+  - Exception: 👂 heard
+  - Unittesting🖐: 🖐️ used
+  - git: 👂 heard
+  - Github: 🎓 known
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers 🎓 known
+  - Magic numbers: 🎓 known
   - Hard code
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti 🎓 known
-  - Silver bullet 🎓 known
+  - Spaghetti: 🎓 known
+  - Silver bullet: 🎓 known
   - Not invented here
-  - Dead code👂 heard
-  - Unreachable code 👂 heard
-  - Duplicate code 👂 heard
+  - Dead code: 👂 heard
+  - Unreachable code: 👂 heard
+  - Duplicate code: 👂 heard
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case 🎓 known
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
