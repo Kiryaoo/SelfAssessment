@@ -5,7 +5,7 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm
@@ -32,34 +32,34 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value🖐: 🖐️ used
+  - Identifier 🖐: 🖐️ used
+  - Variable 🖐: 🖐️ used
+  - Constant🖐: 🖐️ used
   - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
+  - Literal🖐: 🖐️ used
+  - Expression🖐: 🖐️ used
+  - Heap: 🎓 known
+  - Function🖐: 🖐️ used
   - Procedure
-  - Method
-  - Class
+  - Method🖐: 🖐️ used
+  - Class🖐: 🖐️ used
   - Prototype
   - Event
-  - Type
-  - Flag
+  - Type🖐: 🖐️ used
+  - Flag🖐: 🖐️ used
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions🖐: 🖐️ used
+  - Loops🖐: 🖐️ used
   - Assignment
   - Regular expression
-  - Interface
+  - Interface: 👂 heard
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case 🖐: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
@@ -81,9 +81,9 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature: 👂 heard
+  - Argument 🖐: 🖐️ used
+  - Parameter 🖐: 🖐️ used
   - Pure function
   - Lambda expression
   - Side effects
@@ -91,26 +91,26 @@
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback
+  - Callback: 🎓 known
   - Listener
   - Composition
   - Pipe
-  - Memoize
+  - Memoize: 👂 heard
   - Wrapper
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator: 🎓 known
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array 🖐: 🖐️ used
+  - Structure 🖐: 🖐️ used
   - Record
-  - Enum
+  - Enum 🖐: 🖐️ used
   - Instance
-  - Object
+  - Object 🖐: 🖐️ used
   - Collection
   - Set
   - Hash table
@@ -118,16 +118,16 @@
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
+  - Queue: 👂 heard
+  - Stack: 🎓 known
+  - Deque: 👂 heard
+  - Tree: 👂 heard
+  - Graph: 👂 heard
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
+  - String parsing: 🎓 known
   - JSON
   - JSON5
   - YAML
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler🖐: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -153,37 +153,37 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine 🖐: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger 🖐: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
+  - Refactoring: 👂 heard
+  - Code review: 👂 heard
+  - Exception: 👂 heard
+  - Unittesting🖐: 🖐️ used
+  - git: 👂 heard
+  - Github: 🎓 known
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers: 🎓 known
   - Hard code
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti: 🎓 known
+  - Silver bullet: 🎓 known
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code: 👂 heard
+  - Unreachable code: 👂 heard
+  - Duplicate code: 👂 heard
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
