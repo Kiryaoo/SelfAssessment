@@ -1,6 +1,7 @@
 ## JavaScript
 
 - Language
+
   - `Object` 🖐️ used
   - `Function` 🖐️ used
   - `Boolean`  🖐️ used
@@ -20,6 +21,7 @@
   - Destructuring
   - Generators 🖐️ used
   - Iterators 🖐️ used
+
   - Async generator
   - Async iterator
   - Chaining
@@ -32,6 +34,7 @@
   - Getters and setters  🖐️ used
   - `__proto__`
   - `prototype`
+
   - Equality operators
   - Logical operators  🎓 known
   - Logical Assignment
@@ -43,9 +46,9 @@
   - Template literal
   - Strict mode  🖐️ used
   - Hoisting
-  - `delete`
+  - `delete`  🖐️ used
   - `in`
-  - `super`
+  - `super`  🎓 known
   - `eval`
   - `static`
   - `Number.parseInt`
@@ -63,6 +66,7 @@
   - `while` 🖐️ used
   - `do..while`
   - `for` 🖐️ used
+
   - `for..in`
   - `for..of`
   - `for await`
@@ -75,12 +79,16 @@
   - `try..catch` 🖐️ used
   - `switch` 🖐️ used
   - `class` 🖐️ used
+
+  
+
   - `extends`
   - `with`
   - `new`
 - Functions
   - Arrow function 🖐️ used
   - Async function
+
   - Function declaration
   - Function expression
   - Default parameters
@@ -91,6 +99,7 @@
   - `return` 🖐️ used
 - Data structures
   - `Array`  🖐️ used
+
   - `Map`  🖐️ used
   - `Set`
   - `WeakMap`
@@ -115,8 +124,14 @@
   - Timers
 - Infrastructure
   - V8
+  - 
   - Node.js  👂 heard
   - npm 
   - prettier 🖐️ used
+
+  - Node.js
+  - npm
+  - prettier  🖐️ used
+
   - MDN 🖐️ used
   - TC39
