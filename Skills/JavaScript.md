@@ -1,27 +1,25 @@
 ## JavaScript
 
 - Language
-
-  - `Object` 🖐️ used
-  - `Function` 🖐️ used
-  - `Boolean`  🖐️ used
-  - `Number` 🖐️ used
-  - `BigInt` 🖐️ used
-  - `String` 🖐️ used
-  - `Symbol` 🖐️ used
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
   - `Infinity`
-  - `NaN`  🖐️ used
-  - `undefined`  🖐️ used
-  - `null` 🖐️ used
-  - `this` 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
   - `instanceof`
   - `...spread`
   - `...rest`
   - `typeof`
   - Destructuring
-  - Generators 🖐️ used
-  - Iterators 🖐️ used
-
+  - Generators: 🖐️ used
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -31,24 +29,23 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters  🖐️ used
+  - Getters and setters: 🖐️ used
   - `__proto__`
   - `prototype`
-
   - Equality operators
-  - Logical operators  🎓 known
+  - Logical operators: 🎓 known
   - Logical Assignment
-  - Bitwise operators  🎓 known
-  - Ternary operator 🎓 known
-  - `void` 🖐️ used
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🎓 known
+  - `void`: 🖐️ used
   - `yield`
   - `await`
   - Template literal
-  - Strict mode  🖐️ used
+  - Strict mode: 🖐️ used
   - Hoisting
-  - `delete`  🖐️ used
+  - `delete`: 🖐️ used
   - `in`
-  - `super`  🎓 known
+  - `super`: 🎓 known
   - `eval`
   - `static`
   - `Number.parseInt`
@@ -62,45 +59,39 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` 🖐️ used
-  - `while` 🖐️ used
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
   - `do..while`
-  - `for` 🖐️ used
-
+  - `for`: 🖐️ used
   - `for..in`
   - `for..of`
   - `for await`
   - `throw`
-  - `break` 🖐️ used
+  - `break`: 🖐️ used
   - `continue`
-  - `import` 🖐️ used
-  - `export` 🖐️ used
-  - `label` 🖐️ used
-  - `try..catch` 🖐️ used
-  - `switch` 🖐️ used
-  - `class` 🖐️ used
-
-  
-
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
+  - `label`: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function 🖐️ used
+  - Arrow function: 🖐️ used
   - Async function
-
   - Function declaration
   - Function expression
   - Default parameters
-  - Functional object 🖐️ used
+  - Functional object: 🖐️ used
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` 🖐️ used
+  - `return`: 🖐️ used
 - Data structures
-  - `Array`  🖐️ used
-
-  - `Map`  🖐️ used
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -111,11 +102,11 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math` 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON` 👂 heard
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -125,13 +116,8 @@
 - Infrastructure
   - V8
   - 
-  - Node.js  👂 heard
-  - npm 
-  - prettier 🖐️ used
-
-  - Node.js
+  - Node.js: 👂 heard
   - npm
-  - prettier  🖐️ used
-
-  - MDN 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39

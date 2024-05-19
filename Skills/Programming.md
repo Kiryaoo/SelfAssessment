@@ -14,7 +14,7 @@
   - Programming language
   - Contract
   - Module
-  - Library 👂 heard
+  - Library: 👂 heard
   - Package
   - Component
   - Framework
@@ -23,7 +23,7 @@
   - Object code
   - Machine code
   - Microcode
-  - Software engineering 👂 heard
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
@@ -85,8 +85,8 @@
   - Argument 🖐: 🖐️ used
   - Parameter 🖐: 🖐️ used
   - Pure function
-  - Lambda expression 👂 heard
-  - Side effects 
+  - Lambda expression: 👂 heard
+  - Side effects
   - Closure
   - Partial application
   - Currying
@@ -94,7 +94,7 @@
   - Recursion: 🎓 known
   - Tail call optimisation
   - Callback: 🎓 known
-  - Listener 👂 heard
+  - Listener: 👂 heard
   - Composition
   - Pipe
   - Memoize: 👂 heard
@@ -112,7 +112,7 @@
   - Instance
   - Object 🖐: 🖐️ used
   - Collection
-  - Set 👂 heard
+  - Set: 👂 heard
   - Hash table
   - Linked list
   - Doubly list
@@ -128,17 +128,17 @@
   - Immutable state
   - Serialization
   - String parsing: 🎓 known
-  - JSON 👂 heard
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
-  - DNS  🎓 known
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4  🎓 known
-  - IPv6  🎓 known
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
   - NAT
-  - URL  🎓 known
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
@@ -147,8 +147,8 @@
   - Ahead-of-time compilation
   - Transpiler
   - Linter
-  - Polyfill 👂 heard
-  - Interpreter 👂 heard
+  - Polyfill: 👂 heard
+  - Interpreter: 👂 heard
   - Linker
   - Dynamic linking
   - Static linking
@@ -209,31 +209,31 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers 👂 heard
+  - Drivers: 👂 heard
   - Kernel
   - Ring
-  - Virtual memory 👂 heard
-  - File system  🖐️ used
-  - Linux 🖐️ used
-  - Unix👂 heard
+  - Virtual memory: 👂 heard
+  - File system: 🖐️ used
+  - Linux: 🖐️ used
+  - Unix: 👂 heard
   - BSD
-  - MacOS 👂 heard
-  - Windows 🖐️ used
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII  👂 heard
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64 👂 heard
-  - ECMA👂 heard
+  - Base64: 👂 heard
+  - ECMA: 👂 heard
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8 🖐️ used
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
